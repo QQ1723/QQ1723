@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there, I'm Cynthia 👋
+
+I'm currently a Masters student in Statistics and Data Science at Yale University. 
+
+I'm an aspiring data science professional focused on applying statistical modelling, machine learning, and programming to solve real world problems. Experienced in building quantitative models, analyzing complex datasets, and translating data-driven insights into decisions.
 
 <!--
 **QQ1723/QQ1723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
